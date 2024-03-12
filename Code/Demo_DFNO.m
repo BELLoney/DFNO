@@ -7,7 +7,7 @@ load Example.mat
 Dataori=Example;
 
 trandata=Dataori;
-trandata=normalize(trandata,'range');
+trandata(:,1:2)=normalize(trandata(:,1:2),'range');
 
 k=3;
 anomaly_score=DFNO(trandata,k)
