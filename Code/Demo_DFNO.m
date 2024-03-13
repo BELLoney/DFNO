@@ -10,4 +10,4 @@ trandata=Dataori;
 trandata(:,1:2)=normalize(trandata(:,1:2),'range');
 
 k=3;
-anomaly_score=DFNO(trandata,k)
+anomaly_scores=DFNO(trandata,k)
