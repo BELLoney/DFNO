@@ -18,5 +18,4 @@ end
 
 dis=num_dis+nom_dis*length(nom_fea);
 fsr=1-dis/m;
-
 end
