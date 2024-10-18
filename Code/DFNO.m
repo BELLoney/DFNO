@@ -4,7 +4,7 @@
 %% Uploaded by Yuan Zhong on March 12, 2024. E-mail:yuanzhong@scu.edu.cn or yuanzhong2799@foxmail.com.
 function FNOS=DFNO(data,k)
 %%%input:
-% data is data matrix without decisions, where rows for samples and columns for attributes.
+% Data is data matrix without decisions, where rows for samples and columns for attributes.
 % Numerical attributes should be normalized into [0,1].
 % Nominal attribute data is replaced by different positive integers.
 % k is a given parameter for k-fuzzy nearest neighbor.
