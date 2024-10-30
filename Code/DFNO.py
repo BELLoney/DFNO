@@ -24,7 +24,7 @@ def DFNO(data, k):
 
     # Sort similarity matrix and find k-th similarity
     similarity = np.sort(sim, axis=1)[:, ::-1]
-    num = np.argsort(-sim, axis=1)  # Indices of sorted similarity in descending order
+    num = np.argsort(-sim, axis=1, kind='stable')  # Indices of sorted similarity in descending order
     ksimilarity = similarity[:, k]
     fkNN_temp = np.where(sim >= ksimilarity[:, None], sim, 0)
 
