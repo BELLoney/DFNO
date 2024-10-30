@@ -1,4 +1,4 @@
-# Identifying fuzzy-neighoborhood local outliers (FNLO) algorithm
+# Detedting fuzzy neighborhood outliers (DFNO) algorithm
 # Please refer to the following papers:
 # Yuan Zhong,Hu Peng, Chen Hongmei, Chen Yingke, and Li Qilin.Detecting fuzzy neighoborhood outliers[J].
 # IEEE Transactions on Knowledge and Data Engineering,2024.
