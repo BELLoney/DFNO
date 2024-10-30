@@ -1,6 +1,7 @@
 %% Detecting fuzzy-neighoborhood outliers (DFNO) algorithm
 %% Please refer to the following papers:
-%% DFNO: Detecting Fuzzy Neighborhood Outliers
+%% Yuan Zhong,Hu Peng, Chen Hongmei, Chen Yingke, and Li Qilin.Detecting fuzzy neighoborhood outliers[J].
+%% IEEE Transactions on Knowledge and Data Engineering, 2024.
 %% Uploaded by Yuan Zhong on March 12, 2024. E-mail:yuanzhong@scu.edu.cn or yuanzhong2799@foxmail.com.
 function FNOS=DFNO(data,k)
 %%%input:
