@@ -45,9 +45,9 @@ If you find DFNO useful in your research, please consider citing:
   title={DFNO: Detecting Fuzzy Neighborhood Outliers},
   author={Yuan, Zhong and Hu, Peng and Chen, Hong Mei and Chen, Ying Ke and Li, Qi Lin},
   journal={IEEE Transactions on Knowledge and Data Engineering},
-  volume={},
-  number={},
-  pages={},
+  volume={37},
+  number={1},
+  pages={200 -- 209},
   year={2024},
   doi={10.1109/TKDE.2024.3484448},
   publisher={IEEE}
