@@ -1,5 +1,5 @@
 ## DFNO
-Zhong Yuan, Peng Hu, Hongmei Chen, Yingke Chen, and **Qilin Li***, [DFNO: Detecting Fuzzy Neighborhood Outliers](Paper/2025-DFNO.pdf), IEEE Transactions on Knowledge and Data Engineering, 2024, vol. 37, no. 1, pp. 200-209. DOI: [10.1109/TKDE.2024.3484448](https://doi.org/10.1109/TKDE.2024.3484448).
+**Zhong Yuan**, Peng Hu, Hongmei Chen, Yingke Chen, and Qilin Li, [DFNO: Detecting Fuzzy Neighborhood Outliers](Paper/2025-DFNO.pdf), IEEE Transactions on Knowledge and Data Engineering, 2024, vol. 37, no. 1, pp. 200-209. DOI: [10.1109/TKDE.2024.3484448](https://doi.org/10.1109/TKDE.2024.3484448).
 
 ## Abstract
    
